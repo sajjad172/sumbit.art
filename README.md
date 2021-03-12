@@ -1,5 +1,10 @@
 <html lang="en">
 <head>
+<style>
+body {
+  background-color: pink;
+}
+</style>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -55,7 +60,7 @@ body {
 .side {
   -ms-flex: 30%; 
   flex: 30%;
-  background-color: pink;
+  background-color: none;
   padding: 20px;
 }
 
