@@ -168,7 +168,7 @@ input[type=submit]:hover {
  
   <div class="row">
     <div class="column">
-      <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/A2AA80C7-0004-4447-A465-010C641E91EE%20(2).jpg"  style="width:100%">
+      <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/F2A4C90F-1F1F-4B9E-A4DA-F66909966E9F.jpg"  width="325" height="325">
     </div>
     <div class="column">
        <form action="https://formspree.io/f/mrgonlzp" method="POST">
