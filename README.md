@@ -181,10 +181,10 @@ input[type=submit]:hover {
         <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
         <label for="country">Country</label>
         <select id="country" name="country">
-          <option value="australia">USA</option>
+          <option value="usa">USA</option>
           <option value="canada">Canada</option>
-          <option value="usa">Australia</option>
-          <option value="usa">Europe</option>
+          <option value="australia">Australia</option>
+          <option value="europe">Europe</option>
         </select>
           <input type="file" id="myFile" name="filename">
           <br>
