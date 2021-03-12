@@ -170,7 +170,7 @@ input[type=submit]:hover {
 
 <div class="container">
   <div style="text-align:center"><br>
-    <h2 style="color:purple ;">Sumbit your art here!</h2>
+    <h2 style="color:purple ;">Submit your art here!</h2>
  
   <div class="row">
     <div class="column">
