@@ -83,7 +83,8 @@ body {
   <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
-  <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
+  <a href="https://sajjad172.github.io/artworx.page/">Artworx Page</a>
+  <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
   </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
