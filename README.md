@@ -191,7 +191,7 @@ input[type=submit]:hover {
           <option value="australia">Australia</option>
           <option value="europe">Europe</option>
         </select>
-          <input type="file" id="myFile" name="filename">
+          <input type="file" id="myFile" name="filename" required>
           <br>
           <br>
         <label for="subject">Tell us about your art!</label>
